@@ -1,0 +1,5 @@
+Cli0001;Anthony;Villavicencio;Caro;Lucyana-Carabayllo;972031481;43798379;25/07/1986;25/07/2017;1;4;Ronald
+Cli0002;Issac;Villavicencio;Cotrado;Lucyana-Carabayllo;5440380;43798379;24/07/2013;01/07/2017;0;3;Renzo
+Cli0003;Maria;Parado;de Bellido;Los Tulipanes 238;5440146;85235478;12/04/1812;25/07/2017;2;0;Raquel
+Cli0004;Tupac;Amaru;Segundo;Los Tulipanes;5440146;85236954;26/03/1810;25/07/2017;1;3;Rocio
+Cli0005;Miguel;Grau;Seminario;Callao 254;5440505;85698741;06/08/1845;25/07/2017;1;4;Rocio

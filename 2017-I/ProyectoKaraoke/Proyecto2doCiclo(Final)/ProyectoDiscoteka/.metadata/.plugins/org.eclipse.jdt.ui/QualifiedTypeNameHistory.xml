@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="arreglos.ArregloCliente"/>
+<fullyQualifiedTypeName name="clases.Cliente"/>
+<fullyQualifiedTypeName name="java.util.Set"/>
+<fullyQualifiedTypeName name="javax.swing.table.DefaultTableModel"/>
+<fullyQualifiedTypeName name="clases.Sugerencia"/>
+<fullyQualifiedTypeName name="javax.swing.JOptionPane"/>
+<fullyQualifiedTypeName name="clases.Usuario"/>
+<fullyQualifiedTypeName name="arreglos.ArregloBebida"/>
+<fullyQualifiedTypeName name="clases.Bebida"/>
+<fullyQualifiedTypeName name="clases.Piqueo"/>
+<fullyQualifiedTypeName name="clases.Genero"/>
+<fullyQualifiedTypeName name="java.lang.Integer"/>
+<fullyQualifiedTypeName name="arreglos.ArregloSugerencia"/>
+<fullyQualifiedTypeName name="gui.DlgCancion"/>
+<fullyQualifiedTypeName name="gui.Principal"/>
+<fullyQualifiedTypeName name="gui.DlgCliente"/>
+<fullyQualifiedTypeName name="clases.Cancion"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="arreglos.ArregloCancion"/>
+</qualifiedTypeNameHistroy>

@@ -1,0 +1,7 @@
+B0001;Cerveza;Cristal;0;0;5.5
+B0002;Cerveza;Pilsen;0;0;5.5
+B0003;Cerveza;Cuzqueña;0;0;7.55
+B0004;Borgoña;Tabernero;1;0;17.0
+B0005;Magdalena;Tabernero;1;0;20.0
+B0006;Rose;Tabernero;1;0;24.0
+B0007;VinoSeco;Tabernero;1;1;24.5

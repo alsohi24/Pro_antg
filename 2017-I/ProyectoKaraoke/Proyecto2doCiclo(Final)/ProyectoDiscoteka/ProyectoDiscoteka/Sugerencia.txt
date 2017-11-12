@@ -1,0 +1,6 @@
+Sug001;U0003;1;31/10/2010;Me parece que la cantidad de canciones es poca.
+Sug002;U0005;4;31/07/2011;Creo que el local debe ser mas grande
+Sug003;U0004;2;31/08/2012;Faltan muchos tipos de cerveza
+Sug004;U0001;1;31/09/2013;Me gusta la variedad de las canciones
+Sug005;U0007;2;31/12/2015;Quiero que vendan cerveza con fruta
+Sug006;U0004;2;25/10/2016;Me gusta la Coca Cola

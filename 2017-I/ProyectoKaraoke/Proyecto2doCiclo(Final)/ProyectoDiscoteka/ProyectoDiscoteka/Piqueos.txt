@@ -1,0 +1,9 @@
+P0001;Pizza;1;0;32.0
+P0002;Tamales;1;0;12.0
+P0003;Tequeños;1;0;15.0
+P0004;Alitas Broster;1;0;26.0
+P0005;Empanadas;1;0;8.55
+P0006;Helado de Fresa;0;0;10.0
+P0007;Helado de chocolate;0;0;10.0
+P0008;Helado de Vainilla;0;0;10.0
+P0009;Helado de Menta;0;1;12.5

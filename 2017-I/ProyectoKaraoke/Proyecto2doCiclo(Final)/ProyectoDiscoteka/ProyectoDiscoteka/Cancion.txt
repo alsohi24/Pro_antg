@@ -1,0 +1,13 @@
+Can1001;Despacito;3min;LuisFonsi;Desoacito;01/01/2017;1000000;0
+Can1002;Hey DJ;3min;CNCO,Yandel;HeyDJ;01/02/2017;1000;0
+Can1003;It´s my life;4min;Bon Jovi;my life;02/02/2017;10000;0
+Can1004;Back in Black;3min;AC-DC;Black;01/03/2017;1000987;0
+Can1005;Monalisa;3min;Gian Marco;Que lisa la mona;01/08/2013;1006;0
+Can1006;Quisiera;3min;Reik;Quisiera;01/02/2015;12300;0
+Can1007;Sigueme;3min;Daddy Yankee;Sigueme;01/12/2016;1000;0
+Can1008;Ojos Asi;5min;Shakira;Ojos Asi;25/07/2017;800;0
+Can1009;Ciega Sorda Muda;4min;Shakira;Ojos Asi;25/07/2017;700;0
+Can1010;Tu;3min;Shakira;Ojos Asi;25/07/2017;60;0
+Can1011;Suerte;4min;Shakira;Ojos Asi;25/07/2017;50;0
+Can1012;No me doy por vencido;3min;Luis Fonsi;Siempre;31/08/2017;500;0
+Can1013;La Cama me da Vueltas;3min;Pedro Suarez Verti;Mi auto es una rana;25/07/2015;300;0

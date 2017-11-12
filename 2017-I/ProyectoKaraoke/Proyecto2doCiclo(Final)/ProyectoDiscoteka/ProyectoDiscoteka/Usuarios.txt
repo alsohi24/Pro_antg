@@ -1,0 +1,8 @@
+U0001;Anthony;Villavicencio;Caro;avilla;12345666;0;0
+U0002;Ronald;Prado;Coloma;rprado;00011111;0;0
+U0003;Renzo;Lopez;Gallardo;rlopez;11122211;0;0
+U0004;Ricardo;Villavicencio;Yupanqui;rvillavicencio;33344432;1;1
+U0005;Raquel;Cotrado;Uruhuaranga;rcotrado;44455555;0;0
+U0006;Rocio;Soto;Bresani;rsoto;55566666;0;0
+U0007;Rosangela;Reyes;Soto;rreyes;66677777;0;0
+U0008;Victoria;Caro;Meza;vcaro;77788888;0;0

@@ -1,0 +1,7 @@
+1001;Sayón;0;0.2;0
+1002;Coronita;1;1.0;0
+1003;Chocman;2;1.5;0
+1004;Empanassa;3;2.0;0
+1005;Tequeño;6;5.0;0
+1006;Papas Lays;4;1.5;0
+1007;dsfsdfdf;2;12.0;2

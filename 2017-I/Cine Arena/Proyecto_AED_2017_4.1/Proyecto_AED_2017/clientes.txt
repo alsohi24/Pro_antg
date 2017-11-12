@@ -1,0 +1,3 @@
+1001;Juro;Vasquez;Luz;Jr. Jesús María;10/10/2055;07/18/17 08:18;1;123456789;77777777;4;luz
+1004;Arepa;Juro;Fabio;Jr. Papu 123 - Ticlio;01/01/1990;07/18/17 08:18;0;111111111;88888888;0;papu
+1003;Mendo;Mendo;Carlos;Jr. Limones;Ayer;07/18/17 08:18;0;987654344;55555555;1;theLoko123
